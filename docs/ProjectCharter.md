@@ -60,4 +60,19 @@ In this phase, we deliver:
  - Complete implementation plan.
  - Suggested project organization.
  - Signed acceptance by the client with comments.
- #
+ # Schedule
+ The following initial schedule that will be followed:
+ - Phase 1 completed and presented at the end of week 1 as part of milestine-1.
+ - Phase 2 completed and presented at the end of week 2 as part of milestine-1.
+ - Phase 3 completed and presented at the end of week 3  as part of milestine-1.
+ - Phase 4 finalized and published at the end of week 4  as part of milestine-1.
+ - Project reflections and discussions completed by the end of the course.
+ # Budget
+ Since this is a graduate team project, we are doing it free of cost. So it is a zero-budget project.
+ # Risk
+ The major risk associated with this project that could contribute to not making scope, budget, or schedule is that, the client changes requirements that come into picture in mid-project.
+ # Accepatance Criteria
+ - Given some knowledge area as a placeholder in the application, when clicked all the information regarding that knowledge area should appear.
+ - Given some knowledge area as a placeholder in the application, when clicked again all the information regarding that knowledge area should be hidden.
+ - Given a quiz, when finished the score should be evaluated and should appear on the scree.
+
