@@ -11,3 +11,6 @@ PMBOK QUIZ
 1. Priyanka Galla
 1. Divyaharshini Bheemireddy
 1. Chitralekha Chikku
+# Client
+Dr. Denise Case
+# Team Logo
