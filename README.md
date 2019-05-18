@@ -14,3 +14,4 @@ PMBOK QUIZ
 # Client
 Dr. Denise Case
 # Team Logo
+![Team Logo](./images/teamLogo.png)
