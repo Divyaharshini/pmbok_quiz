@@ -1,11 +1,11 @@
-# Project Charter : PMBOK Quiz"
+# Project Charter : PMBOK Quiz
 This is the project charter for the "PMBOK Quiz" project. This application will be delivered as a web application.
 - Published Version
 - Source Code
 # Team Members
-1. Priyanka Galla
-1. Divyaharshini Bheemireddy
-1. Chitralekha Chikku
+1. Priyanka Galla, s534884@nwmissouri.edu
+1. Divyaharshini Bheemireddy, s533899@nwmissouri.edu
+1. Chitralekha Chikku, s534630@nwmissouri.edu
 # Client
 Dr. Denise Case, dcase@nwmissouri.edu
 # Project Information
@@ -23,5 +23,5 @@ Priyanka Galla | Team Member | Internal | Team Lead | s534884@nwmissouri.edu
 Divyaharshini Bheemireddy | Team Member | Internal | Developer | s533899@nwmissouri.edu
 Chitralekha Chikku | Team Member | Internal | Architect | s534630@nwmissouri.edu
 # Scope
-
+## Phase 1 - 
 
