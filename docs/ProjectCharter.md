@@ -17,4 +17,4 @@ Dr. Denise Case, dcase@nwmissouri.edu
 - The quiz helps students learn much about Project Management since it will allow each student to take unlimited attempts and also a detailed explanation of the answers.
 # Stakeholder Register
 Name | Position | Internal/External | Project Role | Contact Information
-----   --------
+---- |  -------- | ----------------- |  ------------  |  ------------------
