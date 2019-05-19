@@ -1,6 +1,6 @@
 # Project Charter : PMBOK Quiz"
 This is the project charter for the "PMBOK Quiz" project. This application will be delivered as a web application.
-- Published Version
+- [Published Version]()
 - Source Code
 # Team Members
 1. Priyanka Galla
