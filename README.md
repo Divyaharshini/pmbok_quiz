@@ -16,3 +16,6 @@ Dr. Denise Case
 ![Team Logo](./images/teamLogo.png)
 # Repository Link
 [Project repo link](https://github.com/Divyaharshini/pmbok_quiz)
+# Team Signatures
+1. 
+1. Divyaharshini Bheemireddy
