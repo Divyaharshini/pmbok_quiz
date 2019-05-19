@@ -1,11 +1,7 @@
 # Project Charter : PMBOK Quiz
 This is the project charter for the "PMBOK Quiz" project. This application will be delivered as a web application.
-- [Published Version]()
-<<<<<<< HEAD
-- Source Code
-=======
+- [Published Version](https://divyaharshini.github.io/pmbok_quiz/)
 - [Source Code](https://github.com/Divyaharshini/pmbok_quiz)
->>>>>>> 009951baa8ef02888a8ede7c0803a014f38b68f7
 # Team Members
 1. Priyanka Galla, s534884@nwmissouri.edu
 1. Divyaharshini Bheemireddy, s533899@nwmissouri.edu
