@@ -10,6 +10,7 @@ We integrate the various knowledge area plans into the Project Management Plan. 
 
 The scope management plan describes how the scope will be defined, monitored, developed, controlled and verified. 
 ### Defining scope - Requirements Specifications
+<<<<<<< HEAD
 | S.No    |   Requirement |   Priority    |   Type |
 | ----    |   ----------- |   --------    |   ----|
 | 1.      |   The application should support user login.   |   High    |   Functional |
@@ -19,3 +20,9 @@ The scope management plan describes how the scope will be defined, monitored, de
 | 5. | The student data that is being maintained should be manageable and consistent.   | Medium    | Non-Functional |
 
 ### Scope Statement
+=======
+| S.No | Requirement | Priority | Type |
+| -- | --------------------------------------------------------------------------- | -------- | ---- |
+| 1. | The application should support user login. | High | Functional |
+| 2. | The application should be able to maintain scores of the student and leaderborads. | High | Functional |
+>>>>>>> c13febf43824f783a20077300a161cd39174894b
