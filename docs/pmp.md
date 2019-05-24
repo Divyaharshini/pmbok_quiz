@@ -12,5 +12,5 @@ The scope management plan describes how the scope will be defined, monitored, de
 ### Defining scope - Requirements Specifications
 S.No    |   Requirement |   Priority    |   Type
 ----    |   ----------- |   --------    |   ----
-1.      |   The application should support user login.   |   High    |   Functional
-2.      |   The application should be able to maintain scores of the student and leaderborads.  |   High    |   Functional
+1. |The application should support user login. | High | Functional
+2. |The application should be able to maintain scores of the student and leaderborads. | High | Functional
