@@ -19,3 +19,4 @@ Dr. Denise Case
 # Team Signatures
 1. Priyanka Galla
 1. Divyaharshini Bheemireddy
+1. Chitralekha Chikku
