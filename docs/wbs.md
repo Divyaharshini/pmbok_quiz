@@ -21,5 +21,5 @@ ID | Task Name | Duration | Predecessor | Milestone|
 | | 3.1 Back-End Development | 2 Weeks | 2 | |
 | | 3.2 Front-End Development | 1 Week | 2 | |
 4. | Roll Out | 1 Week | 3 | Milestone-4 | 
-5. | Support | 1 Week | 2,3,4 | Milestone-4 |
+5. | Support | 1 Week | 2,3,4 | Milestone-5 |
 
