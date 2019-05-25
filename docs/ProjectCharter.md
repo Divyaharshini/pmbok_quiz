@@ -13,7 +13,7 @@ Dr. Denise Case, dcase@nwmissouri.edu
 - This website helps students in learning all 5 Process Groups (i.e., initiating, planning, executing, monitoring & controlling, and closing) and all 10 Knowledge Areas (i.e., Project Integration Management, Project Scope Management, Project Schedule Management, Project Cost Management, Project Quality Management, Project Resource Management, Project Communications Management, Project Risk Management, Project Procurement Management, Project Stakeholder Management).
 - This website also includes a quiz for students on the various processes in each knowledge area.
 # Benefits
-- The application consists of useful information about the 
+- The application consists of useful information about the 5x10 PMBOK matrix with 49 processes. 
 - The quiz helps students learn much about Project Management since it will allow each student to take unlimited attempts and also a detailed explanation of the answers.
 # Stakeholder Register
 Name | Position | Internal/External | Project Role | Contact Information
@@ -63,9 +63,9 @@ In this phase, we deliver:
  # Schedule
  The following initial schedule that will be followed:
  - Phase 1 completed and presented at the end of week 1 as part of milestine-1.
- - Phase 2 completed and presented at the end of week 2 as part of milestine-1.
- - Phase 3 completed and presented at the end of week 3  as part of milestine-1.
- - Phase 4 finalized and published at the end of week 4  as part of milestine-1.
+ - Phase 2 completed and presented at the end of week 2 as part of milestine-2.
+ - Phase 3 completed and presented at the end of week 3  as part of milestine-3.
+ - Phase 4 finalized and published at the end of week 4  as part of milestine-4.
  - Project reflections and discussions completed by the end of the course.
  # Budget
  Since this is a graduate team project, we are doing it free of cost. So it is a zero-budget project.
