@@ -71,44 +71,10 @@ d.	 If the variance of SPI or CPI, is greater than 0.3, the Project Manager gene
     Description of all the processes in cost management is documented.
 
 - Project cost estimation and budget based on our WBS:
+
 | S.No	| Item	| Cost |
-| 1. | Project Management
-      Project Manager  | $85,000 |
-
-<!-- | 2. |  | $78,750 |
-| 3. | Project Team Members	| $18,000 |
-| 
- 
-
-2.	Hardware
-6 windows machines
-4 Tablets
-2 iPhones
-2 Android Phones
-Ethernet Cables	 
-
-$ 8,000
-$ 2,000
-$ 2,000
-$ 1000
-3.	Software
-AppEngine-java-sdk
-Apennine-java master
-SQL server
-IBM DB2
-SAP adaptive server	 
-$ 12,000
-$15,000
-$ 15,000
-$ 15,000
-$ 25,000
-4.	Infrastructure	$ 5,000
-5.	Testing	$200,075 
-6.	Deployment	$ 39,000
-7.	Miscellaneous	$253,540 
-8.	Total Budget	$1,347,973  -->
-
-
-
-
+|-------|-------|------|
+| 1. | __**Project Management**__ | |
+| | Project Manager  | $85,000 |
+| | Project Team Members  | |
 
