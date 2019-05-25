@@ -70,7 +70,7 @@ d.	 If the variance of SPI or CPI, is greater than 0.3, the Project Manager gene
 1. Process Descriptions:
     Description of all the processes in cost management is documented.
 
-- Project cost estimation and budget based on our WBS:
+- Detailed project cost estimation and budget based on our WBS:
 
 | S.No	| Item	| Cost |
 |-------|-------|------|
