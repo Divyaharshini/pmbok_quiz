@@ -62,13 +62,13 @@ We use the WBS as a framework to provide the consistency with estimates.
     Control thresholds are having CPI or SPI less than 0.9 or greater than 1.2.
 1. Rules of performance measurement:
 
-a.	Earned Value Management is used to measure the performance of the project.
+    a.	Earned Value Management is used to measure the performance of the project.
 
-b.	We will calculate Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI to measure cost performance.
+    b.	We will calculate Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI to measure cost performance.
 
-c.	If the variance of SPI or CPI is within 0.2 and 0.4 the Project Manager reports the reason behind the problem.
+    c.	If the variance of SPI or CPI is within 0.2 and 0.4 the Project Manager reports the reason behind the problem.
 
-d.	 If the variance of SPI or CPI, is greater than 0.3, the Project Manager generates a report on the corrective actions to be taken to bring the project back to its normal state.
+    d.	 If the variance of SPI or CPI, is greater than 0.3, the Project Manager generates a report on the corrective actions to be taken to bring the project back to its normal state.
 
 1. Reporting formats:
     A monthly project status report will be submitted about the cost manageable. All the corrective actions needed in the cost management plan are reported in this document.
