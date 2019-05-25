@@ -11,12 +11,12 @@ We integrate the various knowledge area plans into the Project Management Plan. 
 The scope management plan describes how the scope will be defined, monitored, developed, controlled and verified. 
 ### Defining scope - Requirements Specifications
 | S.No    |   Requirement |   Priority    |   Type |
-| ----    |   ----------- |   --------    |   ----|
+| ----    |   ----------- |   --------    |   ---- |
 | 1.      |   The application should support user login.   |   High    |   Functional |
-| 2.       |    There should be 10 place holders, one for each knowledge area.     | High  | Fuctional |
-| 3.      |   The application should be able to maintain scores of the student and leaderborads.  |   High    |   Non-Functional |
+| 2.      |    There should be 10 place holders, one for each knowledge area.     | High  | Fuctional |
+| 3.      |   The application should be able to maintain scores of the student and leaderborads.  |   High  |   Non-Functional |
 | 4.      |   The data regarding the knowledge areas should be reliable and recoverable.    |   Medium  | Non-Functional |
-| 5. | The student data that is being maintained should be manageable and consistent.   | Medium    | Non-Functional |
+| 5.    | The student data that is being maintained should be manageable and consistent.   | Medium    | Non-Functional |
 
 ### Scope Statement
 The project scope statement is a description of the project scope, major deliverables, assumptions and constraints.
@@ -39,5 +39,76 @@ Any changes that the client specifies after signing the requirements specificati
 - Project scope will not change once the stakeholders sign off on the scope statement
 - Funding for licenses to all the tools will be provided as needed.
 
-### Work Breakdown Structure
+### Work Breakdown Structure (WBS)
+A link to the Work Breakdown Structure (WBS) of our project is:
+
+## Project Schedule Management Plan
+
+- A link to the Gantt chart based on our WBS is:
+
+
+- A link to the sprint backlog of our project is:
+
+
+## Project Cost Management Plan
+
+- Level of accuracy:
+We rounded the cost estimates to the nearest $100.
+- Units of measure:
+Cost estimation is done in US Dollars.
+- Organizational Procedures links:
+We use the WBS as a framework to provide the consistency with estimates.
+1. Control thresholds:
+    Control thresholds are having CPI or SPI less than 0.9 or greater than 1.2.
+1. Rules of performance measurement:
+a.	Earned Value Management is used to measure the performance of the project.
+b.	We will calculate Schedule Variance (SV), Cost Variance (CV), Schedule Performance Index (SPI), and Cost Performance Index (CPI to measure cost performance.
+c.	If the variance of SPI or CPI is within 0.2 and 0.4 the Project Manager reports the reason behind the problem.
+d.	 If the variance of SPI or CPI, is greater than 0.3, the Project Manager generates a report on the corrective actions to be taken to bring the project back to its normal state.
+1. Reporting formats:
+    A monthly project status report will be submitted about the cost manageable. All the corrective actions needed in the cost management plan are reported in this document.
+1. Process Descriptions:
+    Description of all the processes in cost management is documented.
+
+- Project cost estimation and budget based on our WBS:
+| S.No	| Item	| Cost |
+| 1. | Project Management
+      Project Manager  | $85,000 |
+
+<!-- | 2. |  | $78,750 |
+| 3. | Project Team Members	| $18,000 |
+| 
+ 
+
+2.	Hardware
+6 windows machines
+4 Tablets
+2 iPhones
+2 Android Phones
+Ethernet Cables	 
+
+$ 8,000
+$ 2,000
+$ 2,000
+$ 1000
+3.	Software
+AppEngine-java-sdk
+Apennine-java master
+SQL server
+IBM DB2
+SAP adaptive server	 
+$ 12,000
+$15,000
+$ 15,000
+$ 15,000
+$ 25,000
+4.	Infrastructure	$ 5,000
+5.	Testing	$200,075 
+6.	Deployment	$ 39,000
+7.	Miscellaneous	$253,540 
+8.	Total Budget	$1,347,973  -->
+
+
+
+
 
