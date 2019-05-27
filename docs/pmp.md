@@ -41,14 +41,17 @@ Any changes that the client specifies after signing the requirements specificati
 
 ### Work Breakdown Structure (WBS)
 A link to the Work Breakdown Structure (WBS) of our project is:
+
 [WBS Link](https://github.com/Divyaharshini/pmbok_quiz/blob/master/docs/wbs.md)
 
 ## Project Schedule Management Plan
 
 - A link to the Gantt chart based on our WBS is:
+
 [Gantt Chart Link](https://github.com/Divyaharshini/pmbok_quiz/blob/master/docs/ganttChart.pod)
 
 - A screenshot to our gantt chart is:
+
 ![Gantt chart screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartScreenshot.png)
 
 - A link to the sprint backlog of our project is:
