@@ -4,8 +4,8 @@ The Work Breakdown Structure (WBS) for our project is:
 
 | ID | Task Name | Duration | Predecessor | Milestone|
 | ---|-----------|----------|-------------|----------|
-| 1. | Concept | 4 Days | None | Milestone-1 |
-| | 1.1 Evaluate current systems | 1 Day |  | |
+| 1. | Concept | 4 Days |  | Milestone-1 |
+| | 1.1 Evaluate current systems | 1 Day | None | |
 | | 1.2 Define requirements | 1 Day | 1.1 | |
 | | 1.3 Define server owner requirements | 1 Day | 1.2 | |
 | | 1.4 Define specific functionality | 0.5 Days | 1.3 | |
@@ -30,7 +30,7 @@ The Work Breakdown Structure (WBS) for our project is:
 | 4. | Testing | 2 Days |  | Milestone-4 |
 | | 4.1 User Testing | 1 Day |  | |
 | | 4.2 Testing Complete | 1 Day | 4.1 | |
-| 5. | Roll Out | 2 Days | 3 | Milestone-4 | 
+| 5. | Roll Out | 2 Days |  | Milestone-4 | 
 | | 5.1 User Testing | 1 Day | 4.2 | |
 | | 5.2 System Verification  for  bugs | 1 Day | 5.1 | |
 | 6. | Support | 4 Days |  | Milestone-5 |
