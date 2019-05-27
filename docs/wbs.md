@@ -20,11 +20,7 @@ The Work Breakdown Structure (WBS) for our project is:
 | 3. | Website Development | 3 weeks | 2 | Milestone-3 |
 | | 3.1 Back-End Development | 2 Weeks | 2 | |
 | | 3.2 Front-End Development | 1 Week | 2 | |
-<<<<<<< HEAD
 4. | Roll Out | 1 Week | 3 | Milestone-4 | 
 5. | Support | 1 Week | 2,3,4 | Milestone-5 |
-=======
-| 4. | Roll Out | 1 Week | 3 | Milestone-4 | 
-| 5. | Support | 1 Week | 2,3,4 | Milestone-4 |
->>>>>>> 98f06ec808f072f5cb52b9111f4f967b5fcc668c
+
 
