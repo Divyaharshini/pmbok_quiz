@@ -1,6 +1,7 @@
 # Sprint Backlog
 
 | ID | Story | Summary | Priority | Asignee | Reporter | Sprint | Epic |
+|-----|-------|--------|----------|----------|----------|-------|-------|
 | 1 | Product Backlog | As a product owner, I want to create a product backlog and a sprint backlog so, that the team member can pick up the tasks assigned and work on the. | High | Priyanka Galla | Priyanka Galla | Sprint-1 | Sprint Schedule |
 | 2 | User Requirements | As a team member, I want to list all the client requirements clearly and have the client signed on the agreement so that, there is a clear understanding of the work to be developed in future both by the client and the developers. | High | Chitralekha Chikku | Priyanka Galla | Sprint-1 | Sprint Schedule |
 | 3 | Plan | As a team member, I want to plan the work to be done based on the requirements collected, and also the various other plans such as cost management plan, resource management plan etc. so that, it allows a smooth and organied flow of work during development. | High | Divyaharshini Bheemiredyy | Priyanka Galla | Sprint-1 | Sprint Schedule |
