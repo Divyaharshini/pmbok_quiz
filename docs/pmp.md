@@ -56,6 +56,7 @@ A link to the Work Breakdown Structure (WBS) of our project is:
 
 - A link to the sprint backlog of our project is:
 
+[Sprint Backlog Link](https://github.com/Divyaharshini/pmbok_quiz/blob/master/docs/sprintBacklog.md)
 
 ## Project Cost Management Plan
 
