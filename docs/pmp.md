@@ -103,10 +103,6 @@ We use the WBS as a framework to provide the consistency with estimates.
 ## Project Human Resource Management Plan
 
 ### Project Organizational Charts
-<<<<<<< HEAD
 
 We follow the hierarchy of shown below for human resource management during our project:
-![Organizational Chart]()
-=======
-![Gantt chart screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartScreenshot.png)
->>>>>>> 6542a11e993dd759314fd48ec68220f97836e1af
+![Organizational Chart](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/organizarional%20chart.png)
