@@ -88,22 +88,19 @@ We use the WBS as a framework to provide the consistency with estimates.
 | S.No	| Item	| Cost |
 |-------|-------|------|
 | 1. | __**Project Management**__ | |
-| | Project Manager  | $85,000 |
-| | Project Team Members  | $78,750 |
+| | Project Manager  | $7,000 |
+| | Project Team Members  | $5,000 |
 | 2. | __**Hardware**__ | |
-| | 6 windows machines | $18,000 |
-| | 4 Tablets | $8,000 |
-| | 2 iPhones | $2,000 |
-| | 2 Android Phones | $2,000 |
-| | Ethernet Cables | $1,000 |
+| | Windows systems | $10,000 |
 | 3. | __**Software**__ | |
-| | AppEngine-java-sdk | $12,000 |
-| | Apennine-java master | $15,000 |
-| | SQL server | $15,000 |
-| | IBM DB2 | $15,000 |
-| | SAP adaptive server | $25,000 |
-| 4. | __**Infrastructure**__ | $5,000 |
-| 5. | __**Testing**__ | $200,075 |
-| 6. | __**Deployment**__ | $39,000 |
-| 7. | __**Miscellaneous**__ | $253,540 |
-| 8. | __**Total Budget**__ | $1,347,973 |
+| | Licensed software | $5000 |
+| 3. | __**Miscellaneous**__ | $8,000 |
+| 8. | __**Total Budget**__ | $35,000 |
+
+## Project Quality Management Plan
+
+
+## Project Human Resource Management Plan
+
+### Project Organizational Charts
+![Gantt chart screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartScreenshot.png)
