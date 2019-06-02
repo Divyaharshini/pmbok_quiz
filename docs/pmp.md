@@ -88,14 +88,14 @@ We use the WBS as a framework to provide the consistency with estimates.
 | S.No	| Item	| Cost |
 |-------|-------|------|
 | 1. | __**Project Management**__ | |
-| | Project Manager  | $7,000 |
-| | Project Team Members  | $5,000 |
+| | Project Manager  | $4,000 |
+| | Project Team Members  | $9,000 |
 | 2. | __**Hardware**__ | |
 | | Windows systems | $10,000 |
 | 3. | __**Software**__ | |
 | | Licensed software | $5000 |
 | 3. | __**Miscellaneous**__ | $8,000 |
-| 8. | __**Total Budget**__ | $35,000 |
+| 8. | __**Total Budget**__ | $36,000 |
 
 ## Project Quality Management Plan
 
@@ -103,6 +103,10 @@ We use the WBS as a framework to provide the consistency with estimates.
 ## Project Human Resource Management Plan
 
 ### Project Organizational Charts
+<<<<<<< HEAD
 
 We follow the hierarchy of shown below for human resource management during our project:
 ![Organizational Chart]()
+=======
+![Gantt chart screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartScreenshot.png)
+>>>>>>> 6542a11e993dd759314fd48ec68220f97836e1af
