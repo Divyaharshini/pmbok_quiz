@@ -88,14 +88,14 @@ We use the WBS as a framework to provide the consistency with estimates.
 | S.No	| Item	| Cost |
 |-------|-------|------|
 | 1. | __**Project Management**__ | |
-| | Project Manager  | $7,000 |
-| | Project Team Members  | $5,000 |
+| | Project Manager  | $4,000 |
+| | Project Team Members  | $9,000 |
 | 2. | __**Hardware**__ | |
 | | Windows systems | $10,000 |
 | 3. | __**Software**__ | |
 | | Licensed software | $5000 |
 | 3. | __**Miscellaneous**__ | $8,000 |
-| 8. | __**Total Budget**__ | $35,000 |
+| 8. | __**Total Budget**__ | $36,000 |
 
 ## Project Quality Management Plan
 
