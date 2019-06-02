@@ -104,5 +104,19 @@ We use the WBS as a framework to provide the consistency with estimates.
 
 ### Project Organizational Charts
 
-We follow the hierarchy of shown below for human resource management during our project:
+We follow the hierarchy shown below for human resource management during our project:
+
 ![Organizational Chart](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/organizarional%20chart.png)
+
+## Project Communications Management
+
+### Stakeholder communication analysis
+
+| Stakeholders | Document Name | Document Format | Contact Person | Due |
+|--------------|---------------|-----------------|----------------|-----|
+| Project Manager | Monthly Status Report | Hard copy and Meeting | Priyanka Galla, s534884@nwmissouri.edu | First of every month |
+| Business Analyst | Weekly Status Report | Hard Copy | Divyaharshini Bheemireddy, s533899@nwmissouri.edu | End of every week |
+| Technical Team Lead | Weekly Status Report | Hard Copy | Chitralekha Chikku, S534630@nwmissouri.edu | End of every week |
+| Testing Team lead | Weekly Status Report | Hard Copy | Priyanka Galla, S534883@nwmissouri.edu | End of every week |
+| Team Member | Project Updates | Intranet | Divyaharshini Bheemireddy, s533899@nwmissouri.edu | Daily |
+| Team Member | Project Documents | Email | Chitralekha Chikku, S534630@nwmissouri.edu | Daily |
