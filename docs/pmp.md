@@ -114,9 +114,27 @@ We follow the hierarchy shown below for human resource management during our pro
 
 | Stakeholders | Document Name | Document Format | Contact Person | Due |
 |--------------|---------------|-----------------|----------------|-----|
+| Project Sponsor | Budget Analysis Reports | Hard Copy | Divyaharshini Bheemireddy, S533899@nwmissouri.edu | One month before the project commences |
 | Project Manager | Monthly Status Report | Hard copy and Meeting | Priyanka Galla, s534884@nwmissouri.edu | First of every month |
 | Business Analyst | Weekly Status Report | Hard Copy | Divyaharshini Bheemireddy, s533899@nwmissouri.edu | End of every week |
 | Technical Team Lead | Weekly Status Report | Hard Copy | Chitralekha Chikku, S534630@nwmissouri.edu | End of every week |
-| Testing Team lead | Weekly Status Report | Hard Copy | Priyanka Galla, S534883@nwmissouri.edu | End of every week |
+| Testing Team lead | Test Report | Hard Copy | Priyanka Galla, S534883@nwmissouri.edu | End of each task |
 | Team Member | Project Updates | Intranet | Divyaharshini Bheemireddy, s533899@nwmissouri.edu | Daily |
 | Team Member | Project Documents | Email | Chitralekha Chikku, S534630@nwmissouri.edu | Daily |
+
+## Project Risk Management Plan
+
+### Risk register
+
+
+### Risk Mitigation Strategies
+
+| Resource Risk | Technical Risk | Market Risk | Cost Risk | Schedule Risk |
+|---------------|----------------|-------------|-----------|---------------|
+| New substitute employees must be recruited in different areas for emergency requirements | Ensure proper knowledge transfer from current employees to the new employees | Make the customers in the market familiar with the product | Be ready to meet the costs of new licenses of softwares or systems if required | Increase the authority of Project Manager |
+
+| Allocate cost for new employees | Increase frequency of project monitoring | Gain knowledge on the competition in the market | Use WBS and CPM | Select the most experienced person in the project as the project manager |
+
+| Assign knowledge transfer sessions for new employees |  Review the deliverable and its quality before it is released into the market | Know how to innovate the product based on the current technologies in the market | Increase frequency of project monitoring | Use WBS and CPM |
+
+| Give importance to team support and avoid stand-alone project sturcture | Use WBS and CPM | Release the product into the market in appropriate time | Allocate some extra cost for any unknown requirements | Increase frequency of project monitoring |
