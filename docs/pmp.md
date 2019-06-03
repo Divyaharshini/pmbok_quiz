@@ -50,9 +50,11 @@ A link to the Work Breakdown Structure (WBS) of our project is:
 
 [Gantt Chart Link](https://github.com/Divyaharshini/pmbok_quiz/blob/master/docs/ganttChart.pod)
 
-- A screenshot to our gantt chart is:
+- Screenshots to our gantt chart is:
 
-![Gantt chart screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartScreenshot.png)
+![Gantt chart1 screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartWBS1.png)
+![Gantt chart2 screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartWBS2.png)
+
 
 - A link to the sprint backlog of our project is:
 
