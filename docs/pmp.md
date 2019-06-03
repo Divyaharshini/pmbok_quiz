@@ -133,7 +133,7 @@ A link to our risk register:
 [Risk Register Link](https://docs.google.com/spreadsheets/d/16ckgArdjnEJo-hSCwkTUtiI20isCE0TH8VrPF_b6Pfg/edit#gid=0)
 
 A screenshot of our risk register:
-![Gantt chart2 screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/ganttChartWBS2.png)
+![Gantt chart2 screenshot](https://github.com/Divyaharshini/pmbok_quiz/blob/master/images/RiskRegiser.png)
 
 
 ### Risk Mitigation Strategies
