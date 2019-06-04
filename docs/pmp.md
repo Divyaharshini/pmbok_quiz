@@ -82,19 +82,9 @@ We use the WBS as a framework to provide the consistency with estimates.
 1. Process Descriptions:
     Description of all the processes in cost management is documented.
 
-- Detailed project cost estimation and budget based on our WBS:
+- A link to the document of our detailed project cost estimation and budget based on our WBS:
+[Cost Estimation](https://docs.google.com/spreadsheets/d/1ZhyLPVqOwxpqABtVSS_N8Q4nFaLRkb2-5xOsw3hZOI0/edit#gid=0)
 
-| S.No	| Item	| Cost |
-|-------|-------|------|
-| 1. | __**Project Management**__ | |
-| | Project Manager  | $4,000 |
-| | Project Team Members  | $9,000 |
-| 2. | __**Hardware**__ | |
-| | Windows systems | $10,000 |
-| 3. | __**Software**__ | |
-| | Licensed software | $5000 |
-| 3. | __**Miscellaneous**__ | $8,000 |
-| 8. | __**Total Budget**__ | $36,000 |
 
 ## Project Quality Management Plan
 
