@@ -182,9 +182,37 @@ Various deliverables of the project are delivered during each milestones. These 
 •	Hardware: The project requires 3 computers with, 20TB RAM and Intel core i5 7th Gen.
 •	Software: The project requires database server which is MySQL in case of our project.
 
+### Request for Proposal
+- Purpose of RFP: The purpose of RFP is to get assistance from HTML, CSS, and javascript technologies and installing storage servers such as MySQL.
+
+### Organization’s Background:
+We are going to develop the project privately. Our team consists of three employees and we share the work among ourselves while pplanning and developing the application.
+
+### Basic Requirements:
+Our group mainly focuses on team members' safety and therefore planning to acquire an stress-free workspace for the employees and no overtime is entertained. 
+
+### Hardware and Software Environment:
+- HP monitors and Laptops.
+- Intel core i5 7th generation.
+- SQL server.
+
+### Description of RFP Process:
+Our group uses efficient hardware and software devices. The storage servers used are expected to maintain overload.
+
+### Statement of work and Schedule Information:
+Installing the hardware and extending the storage capacity, downloading software takes about 15 days to complete. Inspecting area of work for installing – 3 days, planning and moving hardware – 4 days, installing hardware – 7 days. Testing the installed devices – 1 days. All these tasks are done way before starting the project work.
+
+### Possible Appendices:
+•	Current System Overview – All the current similar systems have efficient and limited storage.
+•	System Requirements contain advanced extendable storage devices.
+•	Data should not exceed 18 TB.
+•	Required Contents of Vendor’s Response to RFP.
+•	Model Contract. 
+
 ## Project Stakeholder Management Plan
 
 ### Stakeholder Register
+
 Name | Position | Internal/External | Project Role | Contact Information
 ----  | -------- |  ----------------- |  ------------  |  ------------------
 Denise Case | Mentor | External | Mentor | dcase@nwmissouri.edu
@@ -193,6 +221,7 @@ Divyaharshini Bheemireddy | Team Member | Internal | Developer | s533899@nwmisso
 Chitralekha Chikku | Team Member | Internal | Architect | s534630@nwmissouri.edu
 
 ### Stakeholder Analysis
+
 Name | Power/Interest | Current Engagement | Potential Management Strategies
 ---- | -------------- | ------------------ | -------------------------------
 Priyanka Galla | High/High | Leading | Priyanka has a high commanding voice and has a decent direction over the standards and guidelines of the organization.
@@ -208,4 +237,11 @@ Priyanka Galla | High/Medium | Neutral | Priyanka has good marketing skills and 
 Divyaharshini Bheemireddy | High/Medium | Neutral | Divya has an excellent knowledge in checking the quality of the products.
 Chitralekha Chikku | High/Medium | Neutral | Chitra has good communication skills and can manage people in an effective way.
 
+### Issue Log
+
+| Issue	| Description | Impact | Date Reported | Reported By | Assigned To | Priority(H/M/L) | Due Date | Status	| Comments |
+| ---- | -------- | ------ | ------- |----------- | ------ | ----- | ----- | ----- | -----|
+| 1 | The Project Charter included only the initial details and not detailed scope of the project | Results in a lesser detailed understanding of the project by the team | May 25 2019 | Priyanka Galla | Divyaharshini Bheemireddy | Medium | May 28 2019 | Closed | The Project Charter now has a detailed view of the scope of the project |
+| 2 | Delay in developing Project Management Plan | Delay in execution and other processes | June 21 2019 | Priyanka Galla | Divyaharshini Bheemireddy | High | June 23 2019 | Closed | The Project Management Plan is integrated and now consists all the other project plans |
+| 3 | The Cost Estimation consisted of extra costs required for the scope of the project | Has a negative impact on the client and could result in loosing of the project contract | June 21 2019 | Divyaharshini Bheemireddy | Medium | June 23 2019 | Closed | The Project Cost Plan consists of only the optimal costs required to complete the project |
 
