@@ -89,6 +89,7 @@ We use the WBS as a framework to provide the consistency with estimates.
 ## Project Quality Management Plan
 
 We will perform quality management to ensure that our project satisfies the needs for which we are implementing it.
+
 ### Quality Metrics:
 A quality metric specifically describes a project or product attribute and how the control quality process will measure it. Some of the quality metrics that we would lilke to include in our project are on-time performance, cost control,detect frequency of monitoring the project, reliability, functionality, test coverage etc.
 
@@ -163,3 +164,18 @@ Priyanka Galla | Team Member | Internal | Team Lead | s534884@nwmissouri.edu
 Divyaharshini Bheemireddy | Team Member | Internal | Developer | s533899@nwmissouri.edu
 Chitralekha Chikku | Team Member | Internal | Architect | s534630@nwmissouri.edu
 
+### Stakeholder Analysis
+Name | Power/Interest | Current Engagement | Potential Management Strategies
+---- | -------------- | ------------------ | -------------------------------
+Priyanka Galla | High/High | Leading | Priyanka has a high commanding voice and has a decent direction over the standards and guidelines of the organization.
+Divyaharshini Bheemireddy | High/High | Leading | Divya has a good command over the project deadlines.
+Chitralekha Chikku | High/High | Leading | Chitra has a good team building skills and can a connect with the team members effectively.
+Priyanka Galla | Low/Low | Supportive | Priyanka has a good command over nodejs and java script.
+Divyaharshini Bheemireddy | Low/Low | Supportive | Divya has high skills in SQL development.
+Chitralekha Chikku | Low/Low | Supportive | Chitra has high skills in testing.
+Priyanka Galla | Medium/Medium | Neutral | Priyanka has high command over database administration.
+Divyaharshini Bheemireddy | Low/Low | Supportive | Divya can develop cost analysis effectively.
+Chitralekha Chikku | High/Medium | Resistant | Chitra has good knowledge in resource management skills.
+Priyanka Galla | High/Medium | Neutral | Priyanka has good marketing skills and good command over the share of the company.
+Divyaharshini Bheemireddy | High/Medium | Neutral | Divya has an excellent knowledge in checking the quality of the products.
+Chitralekha Chikku | High/Medium | Neutral | Chitra has good communication skills and can manage people in an effective way.
