@@ -153,33 +153,250 @@ We used the following risk mitigation strategies:
 | Assign knowledge transfer sessions for new employees |  Review the deliverable and its quality before it is released into the market | Know how to innovate the product based on the current technologies in the market | Increase frequency of project monitoring | Use WBS and CPM |
 | Give importance to team support and avoid stand-alone project sturcture | Use WBS and CPM | Release the product into the market in appropriate time | Allocate some extra cost for any unknown requirements | Increase frequency of project monitoring |
 
-## Project Procurement Management
 
-### Statement of Work:
 
-#### Scope of Work: 
-This project is about providing an interactive web application which is used to quiz their students on the PMBOK knowledge areas and process groups for the NothWest Missouri State University-MS ACS department. The web application developed allows the students to login to the quiz and take up the quiz on PMBOK. The app also provides a retake of the quiz option for the students in case they want to test themselves again and also a scoreboard containing their scores. This project will be completed by the end of the 1st week of August.
 
-#### Location of Work: 
-Since this project is being planned and developed by our private team, the project will be performed at our location itself. We will meet daily in the college during our leisures and Perform the project work.
 
-#### Period of Performance: 
-The period of performance for the project is 3 months starting on May 14, 2019 and ending by August 08, 2019. The project will be completed within the schedule. The number of working hours is 40 hours per week.
 
-#### Deliverables Schedule:
-•	Working on Database of the Ultimo services and statistics of all accommodation is delivered on June 15, 2019.
-•	Business analysis report and visualization of statistics are created on company’s dashboard on June 30, 2019.
 
-#### Applicable Standards:
-The project must reduce the operating costs and should support company to improve its services.
 
-#### Acceptance Criteria:
-Deliverables of the project are delivered during milestones. These deliverables are validated by the concern manager who sign-off. The deadline for the documents is due after 2 working days. If the deliverables are not signed till the due date, deliverables are considered as validated and signed-off.
 
-#### Special Requirements:
-•	Staffing: The project requires data visualization analyst and business analyst.
-•	Hardware: The project requires 4 computers with, 20TB RAM and Intel core i5 7th Gen.
-•	Software: The project requires database server, Tableau for creating analysis report.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Project Stakeholder Management Plan
 
