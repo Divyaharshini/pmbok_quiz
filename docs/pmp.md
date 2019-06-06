@@ -153,7 +153,6 @@ We used the following risk mitigation strategies:
 | Assign knowledge transfer sessions for new employees |  Review the deliverable and its quality before it is released into the market | Know how to innovate the product based on the current technologies in the market | Increase frequency of project monitoring | Use WBS and CPM |
 | Give importance to team support and avoid stand-alone project sturcture | Use WBS and CPM | Release the product into the market in appropriate time | Allocate some extra cost for any unknown requirements | Increase frequency of project monitoring |
 
-<<<<<<< HEAD
 ## Project Procurement Management
 
 ### Statement of Work:
@@ -181,7 +180,7 @@ Deliverables of the project are delivered during milestones. These deliverables 
 •	Staffing: The project requires data visualization analyst and business analyst.
 •	Hardware: The project requires 4 computers with, 20TB RAM and Intel core i5 7th Gen.
 •	Software: The project requires database server, Tableau for creating analysis report.
-=======
+
 ## Project Stakeholder Management Plan
 
 ### Stakeholder Register
@@ -192,4 +191,3 @@ Priyanka Galla | Team Member | Internal | Team Lead | s534884@nwmissouri.edu
 Divyaharshini Bheemireddy | Team Member | Internal | Developer | s533899@nwmissouri.edu
 Chitralekha Chikku | Team Member | Internal | Architect | s534630@nwmissouri.edu
 
->>>>>>> 2596ec75d2755147e08953bdb6377ae70236f7a6
