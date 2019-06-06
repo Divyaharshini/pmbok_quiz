@@ -168,8 +168,8 @@ Since this project is being planned and developed by our private team, the proje
 The period of performance for the project is 3 months starting on May 14, 2019 and ending by August 08, 2019. The project will be completed within the schedule. The number of working hours is 40 hours per week.
 
 #### Deliverables Schedule:
-•	A proytotype of the PMBOK quiz will be delivered by June 27 2019.
-•	A working and tested interactive PMBOK quiz application will be delivered to the client by August 8 2019.
+- A proytotype of the PMBOK quiz will be delivered by June 27 2019.
+- A working and tested interactive PMBOK quiz application will be delivered to the client by August 8 2019.
 
 #### Applicable Standards:
 The project must have very less or even negligible operating costs since it is a simple interactive web application that does not require much of operation. It should also be open to changes and enhances in future, if required.
@@ -178,9 +178,9 @@ The project must have very less or even negligible operating costs since it is a
 Various deliverables of the project are delivered during each milestones. These deliverables are validated by the concerned manager who is required to sign-off. The deadline for the documents is due after 2 working days. If the deliverables are not signed till the due date, deliverables are considered as validated and signed-off.
 
 #### Special Requirements:
-•	Staffing: The project requires developers with expertise in HTML, CSS, JavaScript, Node.js and express for the front-end interactive web pages and oracle and MySQL for the back-end development.
-•	Hardware: The project requires 3 computers with, 20TB RAM and Intel core i5 7th Gen.
-•	Software: The project requires database server which is MySQL in case of our project.
+- Staffing: The project requires developers with expertise in HTML, CSS, JavaScript, Node.js and express for the front-end interactive web pages and oracle and MySQL for the back-end development.
+- Hardware: The project requires 3 computers with, 20TB RAM and Intel core i5 7th Gen.
+- Software: The project requires database server which is MySQL in case of our project.
 
 ### Request for Proposal
 - Purpose of RFP: The purpose of RFP is to get assistance from HTML, CSS, and javascript technologies and installing storage servers such as MySQL.
@@ -203,11 +203,11 @@ Our group uses efficient hardware and software devices. The storage servers used
 Installing the hardware and extending the storage capacity, downloading software takes about 15 days to complete. Inspecting area of work for installing – 3 days, planning and moving hardware – 4 days, installing hardware – 7 days. Testing the installed devices – 1 days. All these tasks are done way before starting the project work.
 
 #### Possible Appendices:
-•	Current System Overview – All the current similar systems have efficient and limited storage.
-•	System Requirements contain advanced extendable storage devices.
-•	Data should not exceed 18 TB.
-•	Required Contents of Vendor’s Response to RFP.
-•	Model Contract. 
+- Current System Overview – All the current similar systems have efficient and limited storage.
+- System Requirements contain advanced extendable storage devices.
+- Data should not exceed 18 TB.
+- Required Contents of Vendor’s Response to RFP.
+- Model Contract. 
 
 ## Project Stakeholder Management Plan
 
