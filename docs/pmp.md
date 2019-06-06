@@ -167,19 +167,20 @@ Since this project is being planned and developed by our private team, the proje
 The period of performance for the project is 3 months starting on May 14, 2019 and ending by August 08, 2019. The project will be completed within the schedule. The number of working hours is 40 hours per week.
 
 #### Deliverables Schedule:
-•	Working on Database of the Ultimo services and statistics of all accommodation is delivered on June 15, 2019.
-•	Business analysis report and visualization of statistics are created on company’s dashboard on June 30, 2019.
+•   A prototype of the PMBOK quiz will be delivered by June 27 2019.
+•   A working and tested interactive PMBOK quiz application will be delivered to the client by August 8 2019.
 
 #### Applicable Standards:
-The project must reduce the operating costs and should support company to improve its services.
+The project must have very less or even negligible operating costs since it is a simple interactive web application that does not require much of operation. It should also be open to changes and enhances in future, if required.
 
 #### Acceptance Criteria:
-Deliverables of the project are delivered during milestones. These deliverables are validated by the concern manager who sign-off. The deadline for the documents is due after 2 working days. If the deliverables are not signed till the due date, deliverables are considered as validated and signed-off.
+Various deliverables of the project are delivered during each milestones. These deliverables are validated by the concerned manager who is required to sign-off. The deadline for the documents is due after 2 working days. If the deliverables are not signed till the due date, deliverables are considered as validated and signed-off.
 
 #### Special Requirements:
-•	Staffing: The project requires data visualization analyst and business analyst.
-•	Hardware: The project requires 4 computers with, 20TB RAM and Intel core i5 7th Gen.
-•	Software: The project requires database server, Tableau for creating analysis report.
+•   Staffing: The project requires developers with expertise in HTML, CSS, JavaScript, Node.js and express for the front-end interactive web pages and oracle and MySQL for the back-end development.
+•   Hardware: The project requires 3 computers with, 20TB RAM and Intel core i5 7th Gen.
+•   Software: The project requires database server which is MySQL in case of our project.
+
 
 ## Project Stakeholder Management Plan
 
