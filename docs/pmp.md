@@ -152,3 +152,14 @@ We used the following risk mitigation strategies:
 | Allocate cost for new employees | Increase frequency of project monitoring | Gain knowledge on the competition in the market | Use WBS and CPM | Select the most experienced person in the project as the project manager |
 | Assign knowledge transfer sessions for new employees |  Review the deliverable and its quality before it is released into the market | Know how to innovate the product based on the current technologies in the market | Increase frequency of project monitoring | Use WBS and CPM |
 | Give importance to team support and avoid stand-alone project sturcture | Use WBS and CPM | Release the product into the market in appropriate time | Allocate some extra cost for any unknown requirements | Increase frequency of project monitoring |
+
+## Project Stakeholder Management Plan
+
+### Stakeholder Register
+Name | Position | Internal/External | Project Role | Contact Information
+----  | -------- |  ----------------- |  ------------  |  ------------------
+Denise Case | Mentor | External | Mentor | dcase@nwmissouri.edu
+Priyanka Galla | Team Member | Internal | Team Lead | s534884@nwmissouri.edu
+Divyaharshini Bheemireddy | Team Member | Internal | Developer | s533899@nwmissouri.edu
+Chitralekha Chikku | Team Member | Internal | Architect | s534630@nwmissouri.edu
+
