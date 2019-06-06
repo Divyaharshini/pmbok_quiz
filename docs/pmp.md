@@ -203,7 +203,7 @@ Divyaharshini Bheemireddy | Low/Low | Supportive | Divya has high skills in SQL 
 Chitralekha Chikku | Low/Low | Supportive | Chitra has high skills in testing.
 Priyanka Galla | Medium/Medium | Neutral | Priyanka has high command over database administration.
 Divyaharshini Bheemireddy | Low/Low | Supportive | Divya can develop cost analysis effectively.
-Chitralekha Chikku | High/Medium | Resistant | Chitra has good knowledge in resource management skills.
+Chitralekha Chikku | High/Medium | Supportive | Chitra has good knowledge in resource management skills.
 Priyanka Galla | High/Medium | Neutral | Priyanka has good marketing skills and good command over the share of the company.
 Divyaharshini Bheemireddy | High/Medium | Neutral | Divya has an excellent knowledge in checking the quality of the products.
 Chitralekha Chikku | High/Medium | Neutral | Chitra has good communication skills and can manage people in an effective way.
