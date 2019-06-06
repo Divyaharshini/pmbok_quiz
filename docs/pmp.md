@@ -65,9 +65,9 @@ We rounded the cost estimates to the nearest $100.
 Cost estimation is done in US Dollars.
 - Organizational Procedures links:
 We use the WBS as a framework to provide the consistency with estimates.
-1. Control thresholds:
+- Control thresholds:
     Control thresholds are having CPI or SPI less than 0.9 or greater than 1.2.
-1. Rules of performance measurement:
+- Rules of performance measurement:
 
     a.	Earned Value Management is used to measure the performance of the project.
 
@@ -77,9 +77,9 @@ We use the WBS as a framework to provide the consistency with estimates.
 
     d.	 If the variance of SPI or CPI, is greater than 0.3, the Project Manager generates a report on the corrective actions to be taken to bring the project back to its normal state.
 
-1. Reporting formats:
+- Reporting formats:
     A monthly project status report will be submitted about the cost manageable. All the corrective actions needed in the cost management plan are reported in this document.
-1. Process Descriptions:
+- Process Descriptions:
     Description of all the processes in cost management is documented.
 
 - A link to the document of our detailed project cost estimation and budget based on our WBS:
