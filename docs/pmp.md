@@ -158,6 +158,7 @@ We used the following risk mitigation strategies:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -396,6 +397,22 @@ We used the following risk mitigation strategies:
 
 
 
+=======
+#### Deliverables Schedule:
+•   A prototype of the PMBOK quiz will be delivered by June 27 2019.
+•   A working and tested interactive PMBOK quiz application will be delivered to the client by August 8 2019.
+
+#### Applicable Standards:
+The project must have very less or even negligible operating costs since it is a simple interactive web application that does not require much of operation. It should also be open to changes and enhances in future, if required.
+
+#### Acceptance Criteria:
+Various deliverables of the project are delivered during each milestones. These deliverables are validated by the concerned manager who is required to sign-off. The deadline for the documents is due after 2 working days. If the deliverables are not signed till the due date, deliverables are considered as validated and signed-off.
+
+#### Special Requirements:
+•   Staffing: The project requires developers with expertise in HTML, CSS, JavaScript, Node.js and express for the front-end interactive web pages and oracle and MySQL for the back-end development.
+•   Hardware: The project requires 3 computers with, 20TB RAM and Intel core i5 7th Gen.
+•   Software: The project requires database server which is MySQL in case of our project.
+>>>>>>> 99df4217b1010692d683213e75190a41acc894c6
 
 
 ## Project Stakeholder Management Plan
