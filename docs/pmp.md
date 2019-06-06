@@ -185,24 +185,24 @@ Various deliverables of the project are delivered during each milestones. These 
 ### Request for Proposal
 - Purpose of RFP: The purpose of RFP is to get assistance from HTML, CSS, and javascript technologies and installing storage servers such as MySQL.
 
-### Organization’s Background:
+#### Organization’s Background:
 We are going to develop the project privately. Our team consists of three employees and we share the work among ourselves while pplanning and developing the application.
 
-### Basic Requirements:
+#### Basic Requirements:
 Our group mainly focuses on team members' safety and therefore planning to acquire an stress-free workspace for the employees and no overtime is entertained. 
 
-### Hardware and Software Environment:
+#### Hardware and Software Environment:
 - HP monitors and Laptops.
 - Intel core i5 7th generation.
 - SQL server.
 
-### Description of RFP Process:
+#### Description of RFP Process:
 Our group uses efficient hardware and software devices. The storage servers used are expected to maintain overload.
 
-### Statement of work and Schedule Information:
+#### Statement of work and Schedule Information:
 Installing the hardware and extending the storage capacity, downloading software takes about 15 days to complete. Inspecting area of work for installing – 3 days, planning and moving hardware – 4 days, installing hardware – 7 days. Testing the installed devices – 1 days. All these tasks are done way before starting the project work.
 
-### Possible Appendices:
+#### Possible Appendices:
 •	Current System Overview – All the current similar systems have efficient and limited storage.
 •	System Requirements contain advanced extendable storage devices.
 •	Data should not exceed 18 TB.
